@@ -1,0 +1,37 @@
+{
+  "scope": "source.php - variable.other.php",
+
+  "completions":
+  [
+    "php",
+
+    { "trigger": "BP_FORUMS_PARENT_FORUM_ID", "contents": "BP_FORUMS_PARENT_FORUM_ID" },
+    { "trigger": "BP_FORUMS_SLUG", "contents": "BP_FORUMS_SLUG" },
+    { "trigger": "DOING_AJAX", "contents": "DOING_AJAX" },
+    { "trigger": "BBCODE_VERSION", "contents": "BBCODE_VERSION" },
+    { "trigger": "BBCODE_RELEASE", "contents": "BBCODE_RELEASE" },
+    { "trigger": "BBCODE_VERBATIM", "contents": "BBCODE_VERBATIM" },
+    { "trigger": "BBCODE_REQUIRED", "contents": "BBCODE_REQUIRED" },
+    { "trigger": "BBCODE_OPTIONAL", "contents": "BBCODE_OPTIONAL" },
+    { "trigger": "BBCODE_PROHIBIT", "contents": "BBCODE_PROHIBIT" },
+    { "trigger": "BBCODE_CHECK", "contents": "BBCODE_CHECK" },
+    { "trigger": "BBCODE_OUTPUT", "contents": "BBCODE_OUTPUT" },
+    { "trigger": "BBCODE_ENDTAG", "contents": "BBCODE_ENDTAG" },
+    { "trigger": "BBCODE_TAG", "contents": "BBCODE_TAG" },
+    { "trigger": "BBCODE_TEXT", "contents": "BBCODE_TEXT" },
+    { "trigger": "BBCODE_NL", "contents": "BBCODE_NL" },
+    { "trigger": "BBCODE_WS", "contents": "BBCODE_WS" },
+    { "trigger": "BBCODE_EOI", "contents": "BBCODE_EOI" },
+    { "trigger": "BBCODE_LEXSTATE_TEXT", "contents": "BBCODE_LEXSTATE_TEXT" },
+    { "trigger": "BBCODE_LEXSTATE_TAG", "contents": "BBCODE_LEXSTATE_TAG" },
+    { "trigger": "BBCODE_MODE_SIMPLE", "contents": "BBCODE_MODE_SIMPLE" },
+    { "trigger": "BBCODE_MODE_CALLBACK", "contents": "BBCODE_MODE_CALLBACK" },
+    { "trigger": "BBCODE_MODE_INTERNAL", "contents": "BBCODE_MODE_INTERNAL" },
+    { "trigger": "BBCODE_MODE_LIBRARY", "contents": "BBCODE_MODE_LIBRARY" },
+    { "trigger": "BBCODE_MODE_ENHANCED", "contents": "BBCODE_MODE_ENHANCED" },
+    { "trigger": "BBCODE_STACK_TOKEN", "contents": "BBCODE_STACK_TOKEN" },
+    { "trigger": "BBCODE_STACK_TEXT", "contents": "BBCODE_STACK_TEXT" },
+    { "trigger": "BBCODE_STACK_TAG", "contents": "BBCODE_STACK_TAG" },
+    { "trigger": "BBCODE_STACK_CLASS", "contents": "BBCODE_STACK_CLASS" }
+  ]
+}
