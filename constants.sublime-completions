@@ -5,8 +5,6 @@
   [
     "php",
 
-    { "trigger": "BP_FORUMS_PARENT_FORUM_ID", "contents": "BP_FORUMS_PARENT_FORUM_ID" },
-    { "trigger": "BP_FORUMS_SLUG", "contents": "BP_FORUMS_SLUG" },
     { "trigger": "DOING_AJAX", "contents": "DOING_AJAX" },
     { "trigger": "BBCODE_VERSION", "contents": "BBCODE_VERSION" },
     { "trigger": "BBCODE_RELEASE", "contents": "BBCODE_RELEASE" },
@@ -32,6 +30,8 @@
     { "trigger": "BBCODE_STACK_TOKEN", "contents": "BBCODE_STACK_TOKEN" },
     { "trigger": "BBCODE_STACK_TEXT", "contents": "BBCODE_STACK_TEXT" },
     { "trigger": "BBCODE_STACK_TAG", "contents": "BBCODE_STACK_TAG" },
-    { "trigger": "BBCODE_STACK_CLASS", "contents": "BBCODE_STACK_CLASS" }
+    { "trigger": "BBCODE_STACK_CLASS", "contents": "BBCODE_STACK_CLASS" },
+    { "trigger": "BP_FORUMS_PARENT_FORUM_ID", "contents": "BP_FORUMS_PARENT_FORUM_ID" },
+    { "trigger": "BP_FORUMS_SLUG", "contents": "BP_FORUMS_SLUG" }
   ]
 }
